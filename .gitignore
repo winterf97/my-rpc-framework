@@ -1,0 +1,3 @@
+# Project exclude paths
+/simple-rpc/target/
+/simple-rpc-my/target/
